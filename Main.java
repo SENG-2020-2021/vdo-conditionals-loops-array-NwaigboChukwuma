@@ -12,7 +12,7 @@ class Main {
         float Total_Amount = 0f;
         byte Days_Paid_For;
         float Amount_Left_To_Pay = 0f;
-        float Amount_Left_To_Pay_For_Day = 0;
+        float Amount_Left_To_Pay_For_Day = 0f;
         byte Number_Of_Days_Defaulted = 4;
         byte k;
         byte Days_Not_Paid_For;
